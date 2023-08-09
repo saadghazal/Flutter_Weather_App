@@ -29,6 +29,8 @@ if the user using the app for the first time the app will work as following
 
 if the user using the app for the second time the app will work as following
 
+![](https://github.com/saadghazal/Flutter_Weather_App/blob/main/Second%20Time.gif)
+
 
 #### Location Permission Denied
 
