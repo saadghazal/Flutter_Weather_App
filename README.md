@@ -36,6 +36,8 @@ if the user using the app for the second time the app will work as following
 
 if the user don't allow to access his location this message will he get
 
+![](https://github.com/saadghazal/Flutter_Weather_App/blob/main/Denied.gif)
+
 
 #### Location Disabled
 
