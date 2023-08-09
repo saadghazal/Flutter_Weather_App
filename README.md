@@ -11,7 +11,7 @@ This app uses good and excellent packages:
 - [**GetX**](https://pub.dev/packages/get) for routing
 - [**Http**](https://pub.dev/packages/http) to fetch data from the API
 - [**Geolocator**](https://pub.dev/packages/geolocator) to access user location after getting the permission
-- [Shared Preferences](https://pub.dev/packages/shared_preferences) to store in local storage
+- [**Shared Preferences**](https://pub.dev/packages/shared_preferences) to store in local storage
 
 ### Description
 
