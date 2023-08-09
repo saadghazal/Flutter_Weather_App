@@ -1,17 +1,17 @@
 # Know Weather
 
 Know Weather is a simple weather app to search for any place
-current weather and user place weather using *[https://openweathermap.org](Open Weather Map)* API's
+current weather and user place weather using [**Open Weather Map**](https://openweathermap.org) API's
 
 ## Getting Started
 
 This app uses good and excellent packages:
 
-- *[https://pub.dev/packages/bloc](Bloc)* for state management
-- *[https://pub.dev/packages/get](GetX)* for routing
-- *[https://pub.dev/packages/http](Http)* to fetch data from the API
-- *[https://pub.dev/packages/geolocator](Geolocator)* to access user location after getting the permission
-- *[https://pub.dev/packages/shared_preferences](Shared Preferences)* to store in local storage
+- [**Bloc**](https://pub.dev/packages/bloc) for state management
+- [**GetX**](https://pub.dev/packages/get) for routing
+- [**Http**](https://pub.dev/packages/http) to fetch data from the API
+- [**Geolocator**](https://pub.dev/packages/geolocator) to access user location after getting the permission
+- [Shared Preferences](https://pub.dev/packages/shared_preferences) to store in local storage
 
 ### Description
 
@@ -37,7 +37,7 @@ if the user don't allow to access his location this message will he get
 #### Location Disabled
 
 if the user not turning the location service on his phone 
-*"Location Service Not Enabled"* will he get
+**"Location Service Not Enabled"** will he get
 
 
 
