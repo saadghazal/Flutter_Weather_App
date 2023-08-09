@@ -22,8 +22,7 @@ The app works as following
 
 if the user using the app for the first time the app will work as following
 
-https://raw.githubusercontent.com/saadghazal/Flutter_Weather_App/main/First%20Time.gif?token=GHSAT0AAAAAACFGFN4YW4GV2LT2K6O4AQ4EZGT5Z4Q
-
+![](https://github.com/saadghazal/Flutter_Weather_App/blob/main/First%20Time.gif)
 
 
 #### Second Time
